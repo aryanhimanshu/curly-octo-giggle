@@ -1,0 +1,10 @@
+aiohttp==3.9.3
+beautifulsoup4==4.12.3
+tqdm==4.66.2
+aiofiles==23.2.1
+fake-useragent==1.4.0
+python-dotenv==1.0.1
+validators==0.22.0
+urllib3==2.2.1
+asyncio==3.4.3
+aiohttp[speedups] 

@@ -1,0 +1,5 @@
+amazon.com
+walmart.com
+target.com
+bestbuy.com
+ebay.com 

@@ -1,0 +1,15 @@
+{
+  "www.flipkart.com/": {
+    "product_urls": [],
+    "stats": {
+      "total_urls_found": 0,
+      "total_urls_visited": 1,
+      "depth_reached": 0,
+      "crawl_time": {
+        "start": "2025-03-16T22:00:10.285829",
+        "end": "2025-03-16T22:00:10.983681",
+        "duration_seconds": 0.697852
+      }
+    }
+  }
+}
